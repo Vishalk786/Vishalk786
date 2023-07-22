@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vishal kumar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java.
+-    I have basic knowledge of Html and CSS.
 - 💞️ I’m looking to collaborate on some people.
 
 <!---
